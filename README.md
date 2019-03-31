@@ -23,9 +23,9 @@ The present dataset is available as a single .ZIP file, which is basically a sma
 <p align="justify">
 2) Within your <strong>Google Drive</strong>, please make a folder namely "<strong>chestimage</strong>". Upload the .ZIP file of the dataset, the "training_validation_2000.zip" file under the "<strong>chestimage</strong>" directory within your <strong>Google Drive</strong>.
 </p>
+<p align="justify">
+3) <strong>Sample code/Implementation</strong>:
+The sample code is available [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing). You don't need to make a copy of the code for now. That being said, using the current link, the entire implementation and sample codes would be available within your Google Colab environment. Please wait until we get together at the workshop. We, together, will go over the code, step by step. 
+</p>
 </p>
 
-<p align="justify">
-3) <strong>Sample code/Implementation</strong>
-The sample code is available [here](http://aptafti.github.io). You don't need to make a copy of the code for now. That being said, using the current link, the entire implementation and sample codes would be available within your Google Colab environment. Please wait until we get together at the workshop. We, together, will go over the code, step by step. 
-</p>
