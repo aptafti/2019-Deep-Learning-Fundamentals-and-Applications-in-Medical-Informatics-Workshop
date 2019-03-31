@@ -10,7 +10,7 @@ The talk in Deep CNN architectures will include a hands-on-practice on anomaly d
 I would strongly recommend you to go through the [<strong>Google Colab</strong>](https://colab.research.google.com/notebooks/welcome.ipynb), but in case you would like to do the hands-on-practice on your local machine, there exists an instruction too. 
 
 ### Do you want to do the hands-on-practice using Google Colab?
-If you are going to take advantages of Google Colab, and try to use that for our proposed hands-on-practice, please follow the below steps, respectively:
+If you are going to take advantages of Google Colab, and try to use this amzing collaborative environment for the proposed hands-on-practice, please follow the below steps, respectively. All we need is an stable internet connection and a browser! 
 
 
 1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. The present dataset is available as a single .ZIP file, which is basically a small subset of a large-scale dataset, the [chest x-ray image dataset provided by NIH](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community). The original paper of the dataset is available [here](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf). I thank NIH and the paper authors to privide an indeed interesting dataset to the research community. <strong>Note: Do not unzip the file, please!</strong> You will be asked to upload the current .ZIP file at your <strong>Google Drive</strong>.  
