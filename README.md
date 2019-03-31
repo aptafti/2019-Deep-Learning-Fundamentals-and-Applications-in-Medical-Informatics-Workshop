@@ -27,7 +27,8 @@ If so, please follow:
 1) Download and install [Anaconda; Python 3.7 version](https://www.anaconda.com/distribution/#download-section). 
 2) Go to the Anaconda Prompt. Then make a virtual environemnt equipped with essential libraries. The command would be as follow:
 ```
-conda create -n DLFA2019 python=3.6 numpy scipy matplotlib spyder ipython jupyter pandas seaborn scikit-learn tensorflow-gpu keras
+conda create -n DLFA2019 python=3.6 numpy scipy matplotlib spyder ipython 
+jupyter pandas seaborn scikit-learn tensorflow-gpu keras
 ```  
 3) Activate your virtual environemnt:
 ```
