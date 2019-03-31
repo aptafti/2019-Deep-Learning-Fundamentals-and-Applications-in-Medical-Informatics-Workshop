@@ -18,6 +18,10 @@ If you are going to take advantages of Google Colab, and try to use that for our
 2) Within your <strong>Google Drive</strong>, please make a folder namely "<strong>chestimage</strong>". Upload the .ZIP file of the dataset, the "training_validation_2000.zip" file under the "<strong>chestimage</strong>" directory within your <strong>Google Drive</strong>.
 
 3) <strong>Sample code/Implementation</strong>:
-The sample code is available [here](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing). You don't need to make a copy of the code for now. That being said, using the current link, the entire implementation and sample codes would be available within your Google Colab environment. Please wait until we get together at the workshop. We, together, will go over the code, step by step. 
+The sample code is available [here](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing). You don't need to make a copy of the code for now. That being said, using the current link, the entire implementation and sample codes would be available within your Google Colab environment. Please wait until we get together at the workshop. We, together, will go over the code, step by step. There is need to configure the Google Colab Runtime, so we can spped up the deep learning process with the use of GPUs. We will set iy up, together at the workshop. Again, please wait until we get together at the workshop. 
 
+### Do you want to do the hands-on-practice at your local machine?
 
+If so, please follow:
+
+1) Please download and install [Anaconda; Python 3.7 version](https://www.anaconda.com/distribution/#download-section). 
