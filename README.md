@@ -11,4 +11,4 @@ I would strongly recommend you to go through the [<strong>Google Colab</strong>]
 
 ### You want to do the hands-on-practice using Google Colab:
 
-1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. 
+1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. The present dataset is a small subset of the chest x-ray image dataset provided by NIH. The orginial large-scale dataset is avaiable [here](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community). The original paper is also available within this [link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf). 
