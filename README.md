@@ -25,7 +25,7 @@ The sample code would be available [here](https://drive.google.com/file/d/13EPcG
 If so, please follow:
 
 1) Download and install [Anaconda; Python 3.7 version](https://www.anaconda.com/distribution/#download-section). 
-2) Go to the Anaconda Prompt. And make a virtual environemnt equipped with essential libraries. The command would be as follow:
+2) Go to the Anaconda Prompt. Then make a virtual environemnt equipped with essential libraries. The command would be as follow:
 ```
 conda create -n DLFA2019 python=3.6 numpy scipy matplotlib spyder ipython jupyter pandas seaborn scikit-learn tensorflow-gpu keras
 ```  
@@ -37,4 +37,6 @@ conda activate DLFA2019
 ```
 jupyter notebook
 ```
+5) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. The present dataset is available as a single .ZIP file, which is basically a small subset of a large-scale dataset, the [chest x-ray image dataset provided by NIH](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community). The original paper of the dataset is available [here](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf). Unzip the current .ZIP file within a sud-directy in your local machine.  
 
+6) You will be asked to copy/paste a portion of our Google Colab implementation at your local Jupyter notebook. Please wait until we get together at the workshop
