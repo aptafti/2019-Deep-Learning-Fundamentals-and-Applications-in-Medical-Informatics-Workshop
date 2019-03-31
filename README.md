@@ -11,4 +11,4 @@ I would strongly recommend you to go through the [<strong>Google Colab</strong>]
 
 ### You want to do the hands-on-practice using Google Colab:
 
-1) <strong> Dataset </strong>: Please [download] (https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. 
+1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. 
