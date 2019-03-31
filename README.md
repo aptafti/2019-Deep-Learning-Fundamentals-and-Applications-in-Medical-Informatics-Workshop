@@ -24,4 +24,4 @@ The sample code is available [here](https://drive.google.com/file/d/13EPcGIn6ovv
 
 If so, please follow:
 
-1) Please download and install [Anaconda; Python 3.7 version](https://www.anaconda.com/distribution/#download-section). 
+1) Download and install [Anaconda; Python 3.7 version](https://www.anaconda.com/distribution/#download-section). 
