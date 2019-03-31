@@ -13,8 +13,10 @@ I would strongly recommend you to go through the [<strong>Google Colab</strong>]
 <p align="justify">
 
 If you are going to take advantages of Google Colab, and try to use that for our proposed hans-on-practice, please follow the below steps, respectively:
-
+</p>
+<p align="justify">
 1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. 
+</p>
 <p align="justify">
 The present dataset is available as a single .ZIP file, which is basically a small subset of a large-scale dataset, the [chest x-ray image dataset provided by NIH](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community). The original paper of the dataset is available [here](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf). I thank NIH and the paper authors to privide an indeed interesting dataset to the research community. <strong>Note</strong>: Do not unzip the file, please! 
 </p>
