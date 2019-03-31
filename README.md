@@ -4,3 +4,4 @@ My name is Ahmad, and I have the honor to serve as a speaker at [Deep Learning F
 
 I will be covering two topics, including: <strong> 1) AI and deep learning; what and why? </strong> and <strong> 2) Deep CNN architectures and their applications in medical image analysis </strong>.  The PDF files of these topics are available within the current GitHub repository. 
 
+##  Hands-on-practice (Python, Tensorflow, Keras)
