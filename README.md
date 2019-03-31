@@ -26,8 +26,6 @@ The present dataset is available as a single .ZIP file, which is basically a sma
 </p>
 
 <p align="justify">
-  3) <strong>Sample code/Implementation</strong>
-</p>
-<p align="justify">
+3) <strong>Sample code/Implementation</strong>
 The sample code is available [here](http://aptafti.github.io). You don't need to make a copy of the code for now. That being said, using the current link, the entire implementation and sample codes would be available within your Google Colab environment. Please wait until we get together at the workshop. We, together, will go over the code, step by step. 
 </p>
