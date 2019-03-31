@@ -9,6 +9,6 @@ The talk in Deep CNN architectures will include a hands-on-practice on anomaly d
 
 I would strongly recommend you to go through the [<strong>Google Colab</strong>](https://colab.research.google.com/notebooks/welcome.ipynb), but in case you would like to do the hands-on-practice on your local machine, there exists an instruction too. 
 
-# You want to do the hands-on-practice using Google Colab:
+### You want to do the hands-on-practice using Google Colab:
 
 asdasd
