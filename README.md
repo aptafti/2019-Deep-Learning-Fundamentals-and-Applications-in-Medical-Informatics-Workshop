@@ -12,7 +12,7 @@ I would strongly recommend you to go through the [<strong>Google Colab</strong>]
 ### Do you want to do the hands-on-practice using Google Colab?
 <p align="justify">
 
-If you are going to take advantages of Google Colab, and try to use that for our proposed hans-on-practice, please follow the below steps, respectively:
+If you are going to take advantages of Google Colab, and try to use that for our proposed hands-on-practice, please follow the below steps, respectively:
 </p>
 <p align="justify">
 1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. 
@@ -24,3 +24,9 @@ The present dataset is available as a single .ZIP file, which is basically a sma
 2) Within your <strong>Google Drive</strong>, please make a folder namely "<strong>chestimage</strong>". Upload the .ZIP file of the dataset, the "training_validation_2000.zip" file under the "<strong>chestimage</strong>" directory within your <strong>Google Drive</strong>.
 </p>
 </p>
+
+<p align="justify">
+  3) <strong>Sample code/Implementation</strong>
+</p>
+<p align="justify">
+The sample code is available [here](http://aptafti.github.io). You don't need to make a copy of the code for now. That being said, using the current link, the entire implementation and sample codes would be available within your Google Colab environment. Please wait until we get together at the workshop. We, together, will go over the code, step by step. 
