@@ -1,6 +1,6 @@
 # 2019 Deep Learning Fundamentals and Applications in Medical Informatics Workshop
 
-My name is Ahmad, and I have the honor to serve as a speaker at [Deep Learning Fundamentals and Applications in Medical Informatics](https://web.cvent.com/event/472ac73b-360b-4c5a-a45d-d14cc0249321/summary), which is being held in [Northwestern Mutual Cream City Labs](https://innovation.northwesternmutual.com/cream-city-labs/), April, 5-6, 2019.  
+My name is [Ahmad Tafti](http://aptafti.github.io), and I have the honor to serve as a speaker at [Deep Learning Fundamentals and Applications in Medical Informatics](https://web.cvent.com/event/472ac73b-360b-4c5a-a45d-d14cc0249321/summary), which is being held in [Northwestern Mutual Cream City Labs](https://innovation.northwesternmutual.com/cream-city-labs/), April, 5-6, 2019.  
 
 I will be covering two topics, including: <strong> 1) AI and deep learning; what and why? </strong> and <strong> 2) Deep CNN architectures and their applications in medical image analysis </strong>.  The PDF files of these topics are available within the current GitHub repository. I am trying my level best to document everything around my talks within this GitHub repository. 
 
@@ -9,6 +9,11 @@ The talk in Deep CNN architectures will include a hands-on-practice on anomaly d
 
 I would strongly recommend you to go through the [<strong>Google Colab</strong>](https://colab.research.google.com/notebooks/welcome.ipynb), but in case you would like to do the hands-on-practice on your local machine, there exists an instruction too. 
 
-### You want to do the hands-on-practice using Google Colab:
+### Do you want to do the hands-on-practice using Google Colab?
 
-1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. The present dataset is a small subset of the [chest x-ray image dataset provided by NIH](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community). The original paper of the dataset is available [here](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf). Thanks, NIH and the paper authors to privide an indeed interesting dataset to the research community. 
+If you are going to take advantages of Google Colab, and try to use that for our proposed hans-on-practice, please follow the below steps, respectively:
+
+
+1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. The present dataset is a small subset of the [chest x-ray image dataset provided by NIH](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community). The original paper of the dataset is available [here](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf). I thank NIH and the paper authors to privide an indeed interesting dataset to the research community. 
+
+2) Within your <strong>Google Drive</strong>, please make a folder namely "<strong>chestimage</strong>". 
