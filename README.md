@@ -10,9 +10,9 @@ The talk in Deep CNN architectures will include a hands-on-practice on anomaly d
 I would strongly recommend you to go through the [<strong>Google Colab</strong>](https://colab.research.google.com/notebooks/welcome.ipynb), but in case you would like to do the hands-on-practice on your local machine, there exists an instruction too. 
 
 ### Do you want to do the hands-on-practice using Google Colab?
+<p align="justify">
 
 If you are going to take advantages of Google Colab, and try to use that for our proposed hans-on-practice, please follow the below steps, respectively:
-
 
 1) <strong> Dataset </strong>: Please [download](https://drive.google.com/file/d/13EPcGIn6ovvU0O4rCku3w5CFRi9CwQ1w/view?usp=sharing) the dataset. 
 <p align="justify">
@@ -20,4 +20,5 @@ The present dataset is available as a single .ZIP file, which is basically a sma
 </p>
 <p align="justify">
 2) Within your <strong>Google Drive</strong>, please make a folder namely "<strong>chestimage</strong>". Upload the .ZIP file of the dataset, the "training_validation_2000.zip" file under the "<strong>chestimage</strong>" directory within your <strong>Google Drive</strong>.
+</p>
 </p>
